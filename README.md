@@ -1,2 +1,2 @@
-# supernova
-The landing page for supernova
+# Supernova
+The professional website for Supernova Inc. founded and maintained by MWS
